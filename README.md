@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Web Developer with experience building robust and scalable web applications. I'm proficient in crafting user interfaces using ReactJS and developing back-end according to the cloud-based architecture of AWS. I attach importance to communication, collaboration and staying updated on technological advancements.<br>🔭 I’m currently working on payment application integrated banking services.<br>👯 I’m looking to collaborate on Web3 application.<br>🌱 I’m currently learning AWS and Blockchain.
+I'm a Software Developer with experience building robust and scalable web applications. I'm proficient in crafting user interfaces using ReactJS and developing back-end according to the cloud-based architecture of AWS. I attach importance to communication, collaboration and staying updated on technological advancements.<br>🔭 I’m currently working on payment application integrated banking services.<br>👯 I’m looking to collaborate on Web3 application.<br>🌱 I’m currently learning AWS and Blockchain.
 
 
 ## 🌐 Socials:
